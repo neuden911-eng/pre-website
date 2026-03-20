@@ -1,4 +1,5 @@
 {
-  "buildCommand": "bash -c \"cd 'Complete task now' && npm run build\"",
-  "outputDirectory": "Complete task now/dist"
+  "buildCommand": "bash -c 'npm run build'",
+  "outputDirectory": "dist",
+  "framework": null
 }
