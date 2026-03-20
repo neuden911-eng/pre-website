@@ -1,5 +1,5 @@
 {
-  "buildCommand": "cd 'Complete task now' && npm run build",
+  "buildCommand": "cd Complete\\ task\\ now && npm run build",
   "outputDirectory": "Complete task now/dist",
-  "devCommand": "cd 'Complete task now' && npm run dev"
+  "devCommand": "cd Complete\\ task\\ now && npm run dev"
 }
